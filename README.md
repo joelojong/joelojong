@@ -4,7 +4,7 @@ I'm currently working on improving my OOP skills and clean code structures
 
 I use Java, C++ ,python and unity (c#)
 
-you can reach me on 
+you can reach me on ojongnkongho@gmail.com
 <!--
 **joelojong/joelojong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
